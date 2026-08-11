@@ -18,5 +18,5 @@
 
 - After confirming that Eagle has switched the library, the image is sent to Eagle.
 
-- Since it may not switch immediately, it will check every 0.2 seconds. If it fails to switch after 10 attempts, it will send the image to the current library.
+- Since it may not switch immediately, it will check every 0.5 seconds. If it fails to switch after 10 attempts, it will send the image to the current library.
 
